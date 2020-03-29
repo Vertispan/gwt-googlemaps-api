@@ -1,0 +1,4 @@
+# Don't attempt to check in any of the copied sources: ignore all files,
+# except this one.
+*
+!.gitignore
